@@ -11,5 +11,6 @@
 <img alt="GitHub commits since latest release (by SemVer)" src="https://img.shields.io/github/commits-since/joomla/joomla-cms/latest/4.0-dev">
 
 ![GitHub language count](https://img.shields.io/github/languages/count/joomla/joomla-cms)
+![GitHub top language](https://img.shields.io/github/languages/top/joomla/joomla-cms)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alikon)](https://github.com/anuraghazra/github-readme-stats)
